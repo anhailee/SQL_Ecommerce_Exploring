@@ -1,7 +1,7 @@
 # SQL_Ecommerce_Exploring
 Utilized SQL in Google BigQuery to write and execute queries to find the desired data.
 
-**1. INTRODUCTION**
+## **1. INTRODUCTION**
    
 The sample dataset contains obfuscated Google Analytics 360 data from the Google Merchandise Store, a real ecommerce store. The Google Merchandise Store sells Google branded merchandise. The data is typical of what you would see for an ecommerce website. It includes the following kinds of information:
 
@@ -12,10 +12,10 @@ The sample dataset contains obfuscated Google Analytics 360 data from the Google
 => Based on this dataset I will explore it by using Google Bigquery  to have an outlook on the business situation, marketing activity efficiency analyzing the products.
 
 
-**2. THE GOAL OF PROJECT**
+## **2. THE GOAL OF PROJECT**
 
 
-**3. DATASET ACCESS**
+## **3. DATASET ACCESS**
 
 To access the dataset:
 
@@ -26,7 +26,7 @@ To access the dataset:
 
 => In the future you can access the dataset within BigQuery by selecting the **bigquery-public-data** project from the left-hand navigation panel, then select the **ga_sessions** table under the **google_analytics_sample** dataset.
 
-**4. READ AND EXPLAIN DATASET**
+## **4. READ AND EXPLAIN DATASET**
 
 | Field Name|Data Type|Description|
 | :------------:|:-------------:|:-----:|
@@ -49,7 +49,7 @@ To access the dataset:
 
 More detail: https://support.google.com/analytics/answer/3437719?hl=en
 
-**5. EXPLORING DATASET**
+## **5. EXPLORING DATASET**
 
 ***Query 01:*** Calculate total visit, pageview, transaction for Jan, Feb and March 2017 (order by month)
 
