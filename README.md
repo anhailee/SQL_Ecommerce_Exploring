@@ -14,6 +14,7 @@ The sample dataset contains obfuscated Google Analytics 360 data from the Google
 
 ## **2. THE GOAL OF PROJECT**
 
+Using the available data, the Manager wants to analyze the website's performance, user behavior, and revenue to optimize marketing strategies, resource allocation, and business growth. The focus is on enhancing user engagement, optimizing costs, increasing revenue, and understanding customer behavior.
 
 ## **3. DATASET ACCESS**
 
